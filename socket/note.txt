@@ -1,0 +1,10 @@
+argc, argc[]
+strerror(): get a system error message
+memset(): set memory value
+htonl(): Host to network long int
+ntohl(): Network to host long int
+htons(): Host to network short int
+ntohs(): Network to host short int
+inet_pton():
+fgets(): 
+strlen():  
