@@ -1,4 +1,4 @@
-¿Í»§¶Ë
+//client
 
 #include<stdio.h>
 #include<stdlib.h>
